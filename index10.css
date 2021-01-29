@@ -1,0 +1,14 @@
+
+body {
+}
+.content {
+  background: aquamarine;
+  float: left;
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+}
+.content2 {
+  background: bisque;
+  clear: both;
+}

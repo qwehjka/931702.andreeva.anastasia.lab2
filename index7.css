@@ -1,0 +1,53 @@
+
+body {
+	margin:0px;
+}
+.stactic1 {
+  background: blueviolet;
+  color:white;
+  height: 100px;
+  width: 200px;
+  position: static;
+}
+.relativ1 {
+  background: darkred;
+  color:white;
+  height: 100px;
+  width: 200px;
+  position: relative;
+}
+.relativ2 {
+  background: peru;
+  color:white;
+  height: 100px;
+  width: 200px;
+  position: relative;
+  top: -30px;
+  left: 30px;
+}
+.relativ3 {
+  background: indianred;
+  color:white;
+  height: 500px;
+  width: 600px;
+  position: relative;
+}
+.absolute1 {
+  background: indigo;
+  color:white;
+  height: 250px;
+  width: 300px;
+  position: absolute;
+  right: 0px;
+  bottom: 80px;
+}
+.fixed1 {
+  background: forestgreen;
+  color:white;
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  z-index: -1;
+}

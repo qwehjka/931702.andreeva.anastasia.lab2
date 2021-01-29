@@ -1,0 +1,32 @@
+
+body {
+  margin: 0px;
+}
+
+.content {
+  margin: 8px;
+  padding: 0px;
+  background: aqua;
+  border: 1px solid green;
+  margin-bottom: 80px;
+}
+.left-col {
+  float: left;
+  width: 200px;
+  height: 100%;
+  background: bisque;
+}
+.right-col {
+  margin-left: 200px;
+  background: darkgray;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  background: green;
+  color: white;
+  width: 100%;
+  text-align: center;
+  height: 80px;
+}

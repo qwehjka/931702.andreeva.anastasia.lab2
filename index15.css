@@ -1,0 +1,15 @@
+.inDiv
+{
+	display: inline-block;
+	background: aqua;
+	height: 100px;
+	width: 250px;
+	margin: 20px;
+}
+
+.noinDiv
+{
+	display:block;
+	width:100%;
+	background: bisque;
+}

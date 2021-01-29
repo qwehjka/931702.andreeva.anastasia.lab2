@@ -1,0 +1,16 @@
+
+body {
+}
+.content {
+  margin: 0px;
+  padding: 0px;
+  background: blue;
+  color: white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wrapper_image
+{
+	float:right;
+}
